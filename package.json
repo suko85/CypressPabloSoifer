@@ -1,0 +1,23 @@
+{
+  "name": "cypress_tutorial",
+  "version": "1.0.0",
+  "description": "My first tutorial.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geisser-creator/cypress-tutorial.git"
+  },
+  "keywords": [
+    "my",
+    "tutorial"
+  ],
+  "author": "Geisser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geisser-creator/cypress-tutorial/issues"
+  },
+  "homepage": "https://github.com/Geisser-creator/cypress-tutorial#readme",
+  "devDependencies": {
+    "cypress": "^6.0.0"
+  }
+}
